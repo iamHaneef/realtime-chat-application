@@ -16,7 +16,7 @@
 ![Receiver](./screenshots/chat-receiver.jpeg)
 
 ### 👥 User Search
-![Search](./public/screenshots/user-search.jpeg)
+![Search](./screenshots/user-search.jpeg)
 
 ---
 
