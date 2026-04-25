@@ -1,4 +1,4 @@
-REALTIME CHAT APPLICATION
+# REALTIME CHAT APPLICATION
 
 ## 🚀 Live Demo
 https://chat-cafe.netlify.app
