@@ -12,7 +12,7 @@ https://chat-cafe.netlify.app
 ![Register](./public/screenshots/register.jpeg)
 
 ### 💬 Chat Interface
-![Sender](./public/screenshots/chat-sender.jpeg)
+![Sender](./public/screenshots/chat-sender.png)
 ![Receiver](./public/screenshots/chat-receiver.jpeg)
 
 ### 👥 User Search
