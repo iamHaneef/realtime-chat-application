@@ -1,7 +1,7 @@
 # Chat Cafe — Real-Time Chat Application
 
 ## 🚀 Live Demo
-https://chat-cafe.netlify.app
+> **[https://chat-cafe.netlify.app](https://chat-cafe.netlify.app)**
 
 ---
 
