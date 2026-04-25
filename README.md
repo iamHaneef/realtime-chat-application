@@ -8,8 +8,8 @@ https://chat-cafe.netlify.app
 ## 📸 Screenshots
 
 ### 🔐 Authentication
-![Login](./public/screenshots/login.jpeg)
 ![Register](./public/screenshots/register.jpeg)
+![Login](./public/screenshots/login.jpeg)
 
 ### 💬 Chat Interface
 ![Sender](./public/screenshots/chat-sender.png)
