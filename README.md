@@ -1,4 +1,4 @@
-# REALTIME CHAT APPLICATION
+# Chat Cafe — Real-Time Chat Application
 
 ## 🚀 Live Demo
 https://chat-cafe.netlify.app
@@ -8,12 +8,12 @@ https://chat-cafe.netlify.app
 ## 📸 Screenshots
 
 ### 🔐 Authentication
-![Register](./public/screenshots/register.jpeg)
-![Login](./public/screenshots/login.jpeg)
+![Register](./screenshots/register.jpeg)
+![Login](./screenshots/login.jpeg)
 
 ### 💬 Chat Interface
-![Sender](./public/screenshots/chat-sender.png)
-![Receiver](./public/screenshots/chat-receiver.jpeg)
+![Sender](./screenshots/chat-sender.png)
+![Receiver](./screenshots/chat-receiver.jpeg)
 
 ### 👥 User Search
 ![Search](./public/screenshots/user-search.jpeg)
@@ -28,7 +28,13 @@ https://chat-cafe.netlify.app
 - Support for emojis and media messages
 - Instant UI updates without page reload
 
----
+## 🧠 System Flow
+
+- User authenticates via REST API
+- Frontend establishes WebSocket connection
+- Messages are emitted using Socket.io
+- Server processes and forwards messages to recipient
+- UI updates instantly without page reload
 
 ## 🛠️ Tech Stack
 
@@ -48,20 +54,31 @@ Database:
 
 ---
 
-
 ## ⚙️ How to Run
 
-# Clone repo
+### Clone repo
+
+```bash
 git clone <repo-url>
+```
 
-# Install dependencies
+### Install dependencies
+
+```bash
 npm install
+```
 
-# Run frontend
+### Run frontend
+
+```bash
 npm start
+```
 
-# Run backend
+### Run backend
+
+```bash
 npm run server
+```
 
 ---
 
