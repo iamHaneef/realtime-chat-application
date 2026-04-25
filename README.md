@@ -46,8 +46,8 @@ Backend:
 - Node.js
 - Express.js
 
-Realtime:
-- Socket.io
+Realtime Communication:
+- Firebase (Firestore / Realtime Database)
 
 Database:
 - MongoDB
